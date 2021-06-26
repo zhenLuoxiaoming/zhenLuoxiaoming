@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zhenLuoxiaoming
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning iOS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on git hup
+- 📫 How to reach me 542250137
 
 <!---
 zhenLuoxiaoming/zhenLuoxiaoming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
